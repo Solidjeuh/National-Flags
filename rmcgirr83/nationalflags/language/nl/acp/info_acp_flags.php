@@ -4,7 +4,7 @@
 *
 * @package - National Flags language
 * @copyright (c) RMcGirr83
-* Nederlandse vertaling @ Solidjeuh <https://www.froddelpower.be>
+* Nederlandse vertaling @ Solidjeuh <https://www.muziekpromo.net>
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
 */

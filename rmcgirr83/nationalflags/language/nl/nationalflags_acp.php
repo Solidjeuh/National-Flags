@@ -5,7 +5,7 @@
 *
 * @package - National Flags language
 * @copyright (c) RMcGirr83
-* Nederlandse vertaling @ Solidjeuh <https://www.froddelpower.be>
+* Nederlandse vertaling @ Solidjeuh <https://www.muziekpromo.net>
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
 */
@@ -38,7 +38,7 @@ $lang = array_merge($lang, array(
 	'ACP_FLAGS_EXPLAIN'					=> 'Hier kan je vlaggen toevoegen, bewerken of verwijderen.',
 	'ACP_NO_UPLOAD'						=> '<br><strong>Indien je afbeeldingen wenst te gebruiken moet je ze uploaden naar ext/rmcgirr83/nationalflags/flags voor je de nieuwe vlag toevoegt. de vlag moet een naam hebben met kleine letters. vb: be.gif</strong>',
 	'ACP_FLAGS_DONATE'					=> 'Gelieve een <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=S4UTZ9YNKEDDN&amp;item_name=National%20Flags" onclick="window.open(this.href); return false;"><span style="color:#0000FF;"><strong>Donatie</strong></span></a> te overwegen als je deze extensie leuk vindt.<br />
-<span style="color:#B22222;">Of een kleine</span> <a href="https://www.froddelpower.be/donation" onclick="window.open(this.href); return false;"><span style="color:#0000FF;"><strong>Donatie</strong></span></a> <span style="color:#B22222;">voor deze Nederlandse vertaling.</span>',
+<span style="color:#B22222;">Of een kleine</span> <a href="https://www.muziekpromo.net/donation" onclick="window.open(this.href); return false;"><span style="color:#0000FF;"><strong>Donatie</strong></span></a> <span style="color:#B22222;">voor deze Nederlandse vertaling.</span>',
 	'ACP_FLAG_USERS'					=> 'Aantal gebruikers',
 
 	//Add/Edit Flags
