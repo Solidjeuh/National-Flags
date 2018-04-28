@@ -5,7 +5,6 @@
 *
 * @package - National Flags language
 * @copyright (c) 2015 RMcGirr83
-* Nederlandse vertaling @ Solidjeuh <https://www.muziekpromo.net>
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
 */

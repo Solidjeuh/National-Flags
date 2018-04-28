@@ -5,7 +5,6 @@
 *
 * @package - National Flags language
 * @copyright (c) RMcGirr83
-* Nederlandse vertaling @ Solidjeuh <https://www.muziekpromo.net>
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 *
 */
@@ -37,8 +36,7 @@ if (empty($lang) || !is_array($lang))
 $lang = array_merge($lang, array(
 	'ACP_FLAGS_EXPLAIN'					=> 'Hier kan je vlaggen toevoegen, bewerken of verwijderen.',
 	'ACP_NO_UPLOAD'						=> '<br><strong>Indien je afbeeldingen wenst te gebruiken moet je ze uploaden naar ext/rmcgirr83/nationalflags/flags voor je de nieuwe vlag toevoegt. de vlag moet een naam hebben met kleine letters. vb: be.gif</strong>',
-	'ACP_FLAGS_DONATE'					=> 'Gelieve een <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=S4UTZ9YNKEDDN&amp;item_name=National%20Flags" onclick="window.open(this.href); return false;"><span style="color:#0000FF;"><strong>Donatie</strong></span></a> te overwegen als je deze extensie leuk vindt.<br />
-<span style="color:#B22222;">Of een kleine</span> <a href="https://www.muziekpromo.net/donation" onclick="window.open(this.href); return false;"><span style="color:#0000FF;"><strong>Donatie</strong></span></a> <span style="color:#B22222;">voor deze Nederlandse vertaling.</span>',
+	'ACP_FLAGS_DONATE'					=> 'Overweeg aub een <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S4UTZ9YNKEDDN&item_name=National%20Flags" onclick="window.open(this.href); return false;"><strong>Donatie</strong></a> als je deze extensie leuk vindt.',
 	'ACP_FLAG_USERS'					=> 'Aantal gebruikers',
 
 	//Add/Edit Flags
@@ -48,7 +46,7 @@ $lang = array_merge($lang, array(
 	'FLAG_NAME'							=> 'Vlag naam',
 	'FLAG_NAME_EXPLAIN'					=> 'De naam van de vlag. De vlag titel zal getoond worden zoals hier weergegeven.',
 	'FLAG_IMG'							=> 'Afbeelding Naam',
-	'FLAG_IMG_EXPLAIN'					=> 'De naam van de afbeelding. Voorbeeld: be.gif. Nieuwe afbeeldingen moeten geupload worden naar ext/rmcgirr83/nationalflags/flags.',
+	'FLAG_IMG_EXPLAIN'					=> 'De naam van de afbeelding. Voorbeeld: be.gif. Nieuwe afbeeldingen moeten geüpload worden naar ext/rmcgirr83/nationalflags/flags.',
 	'FLAG_IMAGE'						=> 'Vlag afbeelding',
 	'FLAG_ADD'							=> 'Voeg nieuwe vlag toe',
 	'FLAG_UPLOAD'						=> 'Upload vlag',
@@ -66,6 +64,11 @@ $lang = array_merge($lang, array(
 	'FLAGS_NUM_DISPLAY_EXPLAIN'			=> 'Het aantal vlaggen om te tonen op de index pagina van het forum',
 	'FLAGS_ON_INDEX'					=> 'Toon op Index',
 	'FLAGS_ON_INDEX_EXPLAIN'			=> 'Geef een overzicht van de vlag gebruikers op indexpagina',
+	'FLAGS_DISPLAY_OPTIONS'				=> 'Weergave opties',
+	'FLAGS_DISPLAY_VIEWFORUM'			=> 'Toon vlaggen bij het bekijken van onderwerpen op forums',
+	'FLAGS_DISPLAY_FORUMROW'			=> 'Toon vlaggen op index en forum',
+	'FLAGS_DISPLAY_SEARCH'				=> 'Toon vlaggen bij het zoeken naar berichten',
+	'FLAGS_DISPLAY_MEMBERLIST'			=> 'Toon vlaggen op de ledenlijst',
 	'FLAGS_DISPLAY_TO_GUESTS'			=> 'Toon vlaggen aan gasten',
 	'FLAGS_DISPLAY_TO_GUESTS_EXPLAIN'	=> 'Deze instelling op ja zetten zal vlaggen tonen aan gasten en bots',
 
@@ -108,7 +111,7 @@ $lang = array_merge($lang, array(
 	'FLAG_IMAGE_PARTIAL_UPLOAD'				=> 'Het bestand kan niet volledig worden overgedragen.',
 	'FLAG_IMAGE_PHP_SIZE_NA'				=> 'De vlag grootte is te groot.<br>De maximale grootte in php.ini kon niet worden vastgesteld.',
 	'FLAG_IMAGE_PHP_SIZE_OVERRUN'			=> 'De vlag grootte is te groot.<br>De maximale grootte in php.ini kon niet worden vastgesteld.',
-	'FLAG_IMAGE_REMOTE_UPLOAD_TIMEOUT'		=> 'De opgegeven vlag kan niet worden geupload omdat de aanvraag een time-out heeft.',
+	'FLAG_IMAGE_REMOTE_UPLOAD_TIMEOUT'		=> 'De opgegeven vlag kan niet worden geüpload omdat de aanvraag een time-out heeft.',
 	'FLAG_IMAGE_UNABLE_GET_IMAGE_SIZE'		=> 'Het was niet mogelijk om de afmetingen van de vlag te bepalen',
 	'FLAG_IMAGE_URL_INVALID'				=> 'Het vlag adres is ongeldig',
 	'FLAG_IMAGE_URL_NOT_FOUND'				=> 'Het bestand kan niet worden gevonden.',
